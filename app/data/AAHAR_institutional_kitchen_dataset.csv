@@ -1,0 +1,91 @@
+date,day,kitchen,meal_type,food_category,attendance,demand_estimate,food_prepared_kg,food_consumed_kg,surplus_kg,waste_kg,recoverable_surplus_kg,waste_percentage,previous_day_surplus_kg,7_day_avg_consumption_kg,special_event,weather,estimated_food_cost_inr,recoverable_value_inr
+2026-06-01,Monday,Central Institution Kitchen,Breakfast,Rice & Meals,903,924,850.9,790.5,60.4,11.9,48.4,1.4,60.4,790.5,Yes,Rainy,58356.36,3319.37
+2026-06-02,Tuesday,Campus Dining Unit,Lunch,Curry,650,667,594.1,532.9,61.2,22.9,38.2,3.86,60.4,661.7,No,Cloudy,34637.47,2227.15
+2026-06-03,Wednesday,University Food Unit,Dinner,Bakery & Bread,527,539,485.3,419.9,65.5,22.9,42.5,4.73,61.2,581.1,No,Cloudy,27000.04,2364.52
+2026-06-04,Thursday,Central Institution Kitchen,Breakfast,Vegetables,833,810,786.2,736.9,49.3,10.2,39.1,1.3,65.5,620.0,No,Sunny,39018.07,1940.48
+2026-06-05,Friday,Campus Dining Unit,Lunch,Dal & Pulses,666,667,622.2,595.0,27.2,6.8,20.4,1.09,49.3,615.0,No,Sunny,31535.67,1033.96
+2026-06-06,Saturday,University Food Unit,Dinner,Rice & Meals,464,477,425.0,374.8,50.1,16.1,34.0,3.8,27.2,575.0,No,Sunny,28053.38,2244.27
+2026-06-07,Sunday,Central Institution Kitchen,Breakfast,Curry,682,694,640.9,602.6,38.2,9.3,28.9,1.46,50.1,578.9,No,Sunny,31527.52,1421.67
+2026-06-08,Monday,Campus Dining Unit,Lunch,Bakery & Bread,674,690,595.9,559.3,36.5,11.9,24.6,2.0,38.2,545.9,No,Cloudy,35019.54,1445.68
+2026-06-09,Tuesday,University Food Unit,Dinner,Vegetables,535,540,477.7,415.6,62.0,19.6,42.5,4.09,36.5,529.2,No,Sunny,32459.7,2887.87
+2026-06-10,Wednesday,Central Institution Kitchen,Breakfast,Dal & Pulses,796,796,733.5,671.5,62.0,15.3,46.8,2.09,62.0,565.1,No,Sunny,37729.44,2407.28
+2026-06-11,Thursday,Campus Dining Unit,Lunch,Rice & Meals,644,637,606.0,534.6,71.4,13.6,57.8,2.24,62.0,536.2,No,Sunny,39303.64,3748.76
+2026-06-12,Friday,University Food Unit,Dinner,Curry,543,533,508.3,470.9,37.4,9.3,28.1,1.84,71.4,518.5,No,Rainy,23219.84,1283.65
+2026-06-13,Saturday,Central Institution Kitchen,Breakfast,Bakery & Bread,649,636,605.2,548.2,56.9,11.9,45.0,1.97,37.4,543.2,No,Cloudy,39876.39,2965.03
+2026-06-14,Sunday,Campus Dining Unit,Lunch,Vegetables,569,555,517.6,460.7,56.9,17.8,39.1,3.45,56.9,523.0,No,Sunny,25124.4,1897.92
+2026-06-15,Monday,University Food Unit,Dinner,Dal & Pulses,523,535,493.8,459.0,34.9,7.6,27.2,1.55,56.9,508.6,No,Rainy,32841.01,1808.98
+2026-06-16,Tuesday,Central Institution Kitchen,Breakfast,Rice & Meals,757,745,682.5,593.3,89.2,33.1,56.1,4.86,34.9,534.0,No,Sunny,36976.96,3039.42
+2026-06-17,Wednesday,Campus Dining Unit,Lunch,Curry,659,659,589.9,557.6,32.3,11.0,21.2,1.87,89.2,517.8,No,Cloudy,37646.98,1352.97
+2026-06-18,Thursday,University Food Unit,Dinner,Bakery & Bread,699,702,648.5,562.7,85.8,22.9,62.9,3.54,32.3,521.8,Yes,Sunny,35599.95,3452.95
+2026-06-19,Friday,Central Institution Kitchen,Breakfast,Vegetables,802,810,714.0,655.4,58.6,12.8,45.9,1.79,85.8,548.1,No,Rainy,39559.95,2543.14
+2026-06-20,Saturday,Campus Dining Unit,Lunch,Dal & Pulses,568,554,502.3,479.4,22.9,6.0,17.0,1.18,58.6,538.3,No,Cloudy,29936.95,1013.2
+2026-06-21,Sunday,University Food Unit,Dinner,Rice & Meals,569,565,538.9,493.8,45.0,12.8,32.3,2.37,22.9,543.0,No,Sunny,32668.21,1958.03
+2026-06-22,Monday,Central Institution Kitchen,Breakfast,Curry,841,822,790.5,750.5,39.9,7.6,32.3,0.97,45.0,584.7,Yes,Cloudy,51514.67,2104.9
+2026-06-23,Tuesday,Campus Dining Unit,Lunch,Bakery & Bread,649,639,605.2,566.9,38.2,7.6,30.6,1.26,39.9,580.9,No,Rainy,27913.26,1411.34
+2026-06-24,Wednesday,University Food Unit,Dinner,Vegetables,532,551,483.6,455.6,28.1,9.3,18.7,1.93,38.2,566.3,No,Sunny,25982.64,1004.7
+2026-06-25,Thursday,Central Institution Kitchen,Breakfast,Dal & Pulses,785,785,707.2,674.0,33.1,6.8,26.3,0.96,28.1,582.2,No,Sunny,52878.24,1966.48
+2026-06-26,Friday,Campus Dining Unit,Lunch,Rice & Meals,657,651,613.7,582.2,31.4,11.0,20.4,1.8,33.1,571.8,No,Cloudy,41830.02,1390.47
+2026-06-27,Saturday,University Food Unit,Dinner,Curry,453,469,411.4,357.0,54.4,18.7,35.7,4.55,31.4,554.3,No,Sunny,21487.06,1864.58
+2026-06-28,Sunday,Central Institution Kitchen,Breakfast,Bakery & Bread,720,742,676.6,591.6,85.0,17.8,67.1,2.64,54.4,568.3,No,Cloudy,34434.23,3414.92
+2026-06-29,Monday,Campus Dining Unit,Lunch,Vegetables,619,601,579.7,554.2,25.5,6.8,18.7,1.17,85.0,540.2,No,Sunny,30080.45,970.34
+2026-06-30,Tuesday,University Food Unit,Dinner,Dal & Pulses,561,566,521.0,453.9,67.1,19.6,47.6,3.75,25.5,524.1,No,Cloudy,26567.49,2427.28
+2026-07-01,Wednesday,Central Institution Kitchen,Breakfast,Rice & Meals,778,805,725.0,676.6,48.4,9.3,39.1,1.29,67.1,555.6,No,Sunny,41272.33,2225.86
+2026-07-02,Thursday,Campus Dining Unit,Lunch,Curry,639,661,585.6,542.3,43.4,16.1,27.2,2.76,48.4,536.8,No,Sunny,26788.73,1244.29
+2026-07-03,Friday,University Food Unit,Dinner,Bakery & Bread,566,587,524.4,456.4,68.0,13.6,54.4,2.59,43.4,518.9,No,Sunny,32974.94,3420.74
+2026-07-04,Saturday,Central Institution Kitchen,Breakfast,Vegetables,633,618,594.1,538.0,56.1,19.6,36.5,3.29,68.0,544.7,No,Sunny,41517.41,2550.72
+2026-07-05,Sunday,Campus Dining Unit,Lunch,Dal & Pulses,574,581,515.9,470.9,45.0,13.6,31.4,2.64,56.1,527.5,Yes,Rainy,29600.87,1801.64
+2026-07-06,Monday,University Food Unit,Dinner,Rice & Meals,527,519,488.8,462.4,26.3,6.8,19.6,1.39,45.0,514.4,No,Sunny,32935.55,1320.66
+2026-07-07,Tuesday,Central Institution Kitchen,Breakfast,Curry,854,877,760.8,658.8,102.0,31.4,70.5,4.13,26.3,543.6,No,Sunny,41319.08,3828.86
+2026-07-08,Wednesday,Campus Dining Unit,Lunch,Bakery & Bread,642,627,606.9,531.2,75.6,17.8,57.8,2.94,102.0,522.9,No,Sunny,27695.54,2637.67
+2026-07-09,Thursday,University Food Unit,Dinner,Vegetables,548,546,490.4,424.1,66.3,20.4,45.9,4.16,75.6,506.0,No,Cloudy,26746.29,2503.37
+2026-07-10,Friday,Central Institution Kitchen,Breakfast,Dal & Pulses,792,781,747.1,705.5,41.6,7.6,34.0,1.02,66.3,541.6,No,Sunny,39209.02,1784.38
+2026-07-11,Saturday,Campus Dining Unit,Lunch,Rice & Meals,601,587,548.2,473.4,74.8,19.6,55.2,3.57,41.6,532.3,No,Cloudy,38376.06,3864.21
+2026-07-12,Sunday,University Food Unit,Dinner,Curry,477,495,451.3,391.8,59.5,21.2,38.2,4.71,74.8,521.0,No,Rainy,31167.13,2638.12
+2026-07-13,Monday,Central Institution Kitchen,Breakfast,Bakery & Bread,899,925,841.5,734.4,107.1,31.4,75.6,3.74,59.5,559.9,Yes,Cloudy,49550.87,4451.63
+2026-07-14,Tuesday,Campus Dining Unit,Lunch,Vegetables,642,641,595.0,527.0,68.0,13.6,54.4,2.29,107.1,541.1,No,Sunny,30926.37,2827.55
+2026-07-15,Wednesday,University Food Unit,Dinner,Dal & Pulses,504,499,457.3,408.0,49.3,12.8,36.5,2.79,68.0,523.5,No,Cloudy,33595.88,2681.5
+2026-07-16,Thursday,Central Institution Kitchen,Breakfast,Rice & Meals,810,822,742.0,662.1,79.9,22.9,56.9,3.09,49.3,557.5,No,Rainy,51295.76,3933.6
+2026-07-17,Friday,Campus Dining Unit,Lunch,Curry,640,651,593.3,527.0,66.3,22.1,44.2,3.72,79.9,532.0,No,Sunny,42018.44,3130.31
+2026-07-18,Saturday,University Food Unit,Dinner,Bakery & Bread,470,486,434.3,377.4,56.9,18.7,38.2,4.31,66.3,518.2,No,Sunny,21333.79,1876.47
+2026-07-19,Sunday,Central Institution Kitchen,Breakfast,Vegetables,621,643,582.2,534.6,47.6,16.1,31.4,2.77,56.9,538.6,No,Cloudy,30624.59,1651.69
+2026-07-20,Monday,Campus Dining Unit,Lunch,Dal & Pulses,608,614,540.6,498.1,42.5,8.5,34.0,1.57,47.6,504.9,No,Cloudy,31884.35,2005.3
+2026-07-21,Tuesday,University Food Unit,Dinner,Rice & Meals,568,587,531.2,498.9,32.3,8.5,23.8,1.6,42.5,500.9,No,Cloudy,25812.07,1156.49
+2026-07-22,Wednesday,Central Institution Kitchen,Breakfast,Curry,836,850,743.8,688.5,55.2,14.4,40.8,1.94,32.3,540.9,Yes,Cloudy,40915.79,2244.37
+2026-07-23,Thursday,Campus Dining Unit,Lunch,Bakery & Bread,659,646,616.2,546.5,69.7,17.8,51.9,2.9,55.2,524.4,No,Sunny,30460.92,2565.6
+2026-07-24,Friday,University Food Unit,Dinner,Vegetables,592,613,540.6,485.3,55.2,18.7,36.5,3.46,69.7,518.5,No,Cloudy,36981.93,2496.93
+2026-07-25,Saturday,Central Institution Kitchen,Breakfast,Dal & Pulses,692,676,629.0,602.6,26.3,8.5,17.8,1.35,55.2,550.6,No,Rainy,44354.57,1255.18
+2026-07-26,Sunday,Campus Dining Unit,Lunch,Rice & Meals,538,538,479.4,440.3,39.1,12.8,26.3,2.66,26.3,537.2,No,Sunny,33443.9,1834.74
+2026-07-27,Monday,University Food Unit,Dinner,Curry,514,526,470.1,425.0,45.0,11.0,34.0,2.35,39.1,526.7,No,Rainy,22714.13,1642.8
+2026-07-28,Tuesday,Central Institution Kitchen,Breakfast,Bakery & Bread,709,737,668.9,594.1,74.8,27.2,47.6,4.07,45.0,540.3,No,Sunny,43458.8,3092.6
+2026-07-29,Wednesday,Campus Dining Unit,Lunch,Vegetables,655,641,582.2,552.5,29.8,5.1,24.6,0.88,74.8,520.9,No,Sunny,39766.03,1680.25
+2026-07-30,Thursday,University Food Unit,Dinner,Dal & Pulses,586,570,554.2,512.5,41.6,7.6,34.0,1.38,29.8,516.0,No,Sunny,35013.11,2148.04
+2026-07-31,Friday,Central Institution Kitchen,Breakfast,Rice & Meals,745,771,670.6,633.2,37.4,6.8,30.6,1.01,41.6,537.2,No,Rainy,45710.28,2085.8
+2026-08-01,Saturday,Campus Dining Unit,Lunch,Curry,584,587,549.1,474.3,74.8,16.1,58.6,2.94,37.4,518.8,No,Sunny,36984.98,3947.04
+2026-08-02,Sunday,University Food Unit,Dinner,Bakery & Bread,471,465,442.8,387.6,55.2,18.7,36.5,4.22,74.8,511.3,No,Sunny,29356.37,2419.85
+2026-08-03,Monday,Central Institution Kitchen,Breakfast,Vegetables,959,977,850.9,783.7,67.1,11.9,55.2,1.4,55.2,562.6,Yes,Rainy,42709.93,2770.7
+2026-08-04,Tuesday,Campus Dining Unit,Lunch,Dal & Pulses,629,638,563.5,539.8,23.8,6.0,17.8,1.06,67.1,554.8,No,Cloudy,35034.14,1106.67
+2026-08-05,Wednesday,University Food Unit,Dinner,Rice & Meals,570,578,539.8,480.2,59.5,17.8,41.6,3.31,23.8,544.5,No,Cloudy,39522.99,3045.86
+2026-08-06,Thursday,Central Institution Kitchen,Breakfast,Curry,803,786,736.9,663.0,74.0,20.4,53.5,2.77,59.5,566.0,No,Sunny,39307.92,2853.81
+2026-08-07,Friday,Campus Dining Unit,Lunch,Bakery & Bread,688,687,628.1,578.0,50.1,15.3,34.9,2.44,74.0,558.1,No,Sunny,32365.27,1798.36
+2026-08-08,Saturday,University Food Unit,Dinner,Vegetables,493,485,446.2,385.1,61.2,16.1,45.0,3.62,50.1,545.3,Yes,Sunny,27741.92,2797.82
+2026-08-09,Sunday,Central Institution Kitchen,Breakfast,Dal & Pulses,675,691,628.1,580.5,47.6,15.3,32.3,2.44,61.2,572.9,No,Sunny,38612.03,1985.62
+2026-08-10,Monday,Campus Dining Unit,Lunch,Rice & Meals,611,630,566.1,506.6,59.5,17.0,42.5,3.0,47.6,533.3,No,Cloudy,41116.81,3086.85
+2026-08-11,Tuesday,University Food Unit,Dinner,Curry,556,558,510.8,479.4,31.4,7.6,23.8,1.5,59.5,524.7,No,Rainy,24761.39,1153.72
+2026-08-12,Wednesday,Central Institution Kitchen,Breakfast,Bakery & Bread,813,798,765.0,662.1,102.8,24.6,78.2,3.22,31.4,550.7,No,Sunny,41628.85,4255.39
+2026-08-13,Thursday,Campus Dining Unit,Lunch,Vegetables,586,574,518.5,488.8,29.8,10.2,19.6,1.97,102.8,525.8,No,Sunny,32678.57,1235.29
+2026-08-14,Friday,University Food Unit,Dinner,Dal & Pulses,505,500,458.1,437.8,20.4,7.6,12.8,1.67,29.8,505.8,No,Cloudy,30065.08,840.06
+2026-08-15,Saturday,Central Institution Kitchen,Breakfast,Rice & Meals,608,612,553.4,510.8,42.5,7.6,34.9,1.38,20.4,523.7,No,Sunny,27621.6,1741.95
+2026-08-16,Sunday,Campus Dining Unit,Lunch,Curry,521,541,489.6,469.2,20.4,6.0,14.4,1.22,42.5,507.8,No,Rainy,24111.76,709.17
+2026-08-17,Monday,University Food Unit,Dinner,Bakery & Bread,607,608,552.5,479.4,73.1,24.6,48.4,4.46,20.4,503.9,No,Sunny,27359.9,2396.78
+2026-08-18,Tuesday,Central Institution Kitchen,Breakfast,Vegetables,757,760,715.7,617.9,97.8,22.1,75.6,3.09,73.1,523.7,No,Sunny,44798.06,4732.06
+2026-08-19,Wednesday,Campus Dining Unit,Lunch,Dal & Pulses,567,575,504.1,445.4,58.6,21.2,37.4,4.22,97.8,492.8,No,Cloudy,32819.98,2434.97
+2026-08-20,Thursday,University Food Unit,Dinner,Rice & Meals,552,568,489.6,438.6,51.0,14.4,36.5,2.95,58.6,485.6,No,Sunny,29120.03,2170.92
+2026-08-21,Friday,Central Institution Kitchen,Breakfast,Curry,800,823,753.1,685.1,68.0,25.5,42.5,3.39,51.0,520.9,No,Cloudy,41584.47,2346.75
+2026-08-22,Saturday,Campus Dining Unit,Lunch,Bakery & Bread,514,510,467.5,444.6,22.9,6.8,16.1,1.45,68.0,511.5,No,Sunny,23724.73,817.04
+2026-08-23,Sunday,University Food Unit,Dinner,Vegetables,462,448,436.9,395.2,41.6,10.2,31.4,2.33,22.9,500.9,No,Cloudy,23304.54,1674.9
+2026-08-24,Monday,Central Institution Kitchen,Breakfast,Dal & Pulses,851,879,808.4,744.6,63.8,17.8,45.9,2.21,41.6,538.8,Yes,Cloudy,53856.32,3057.9
+2026-08-25,Tuesday,Campus Dining Unit,Lunch,Rice & Meals,710,710,664.7,629.0,35.7,6.8,28.9,1.02,63.8,540.4,Yes,Cloudy,40940.94,1780.04
+2026-08-26,Wednesday,University Food Unit,Dinner,Curry,566,578,537.2,514.2,22.9,5.1,17.8,0.95,35.7,550.2,No,Cloudy,29758.08,986.03
+2026-08-27,Thursday,Central Institution Kitchen,Breakfast,Bakery & Bread,732,733,648.5,607.8,40.8,11.0,29.8,1.7,22.9,574.4,No,Rainy,48207.87,2215.26
+2026-08-28,Friday,Campus Dining Unit,Lunch,Vegetables,669,692,627.3,544.0,83.3,24.6,58.6,3.93,40.8,554.2,No,Rainy,43708.69,4083.1
+2026-08-29,Saturday,University Food Unit,Dinner,Dal & Pulses,483,492,438.6,379.1,59.5,11.9,47.6,2.71,83.3,544.8,No,Cloudy,29917.62,3246.87
